@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="text_digit_zero">0</string>
+    <string name="text_dummy">...</string>
+    <string name="text_note_deleted">Noted deleted successfully.</string>
+    <string name="text_dialogue_title_for_filename">Add Note</string>
+    <string name="text_enter_filename">Enter name of Note</string>
+    <string name="text_dialogue_positive_button_for_a_new_note">Create</string>
+    <string name="text_enter_filename_description">Enter name of Note below.</string>
+    <string name="error_note_name_empty">Enter name of Note below.</string>
+    <string name="error_creating_note">A Problem occured while creating note.</string>
+    <string name="text_dialogue_negative_button_for_a_new_note">Cancel</string>
+
+</resources>
